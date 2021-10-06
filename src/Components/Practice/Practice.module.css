@@ -1,0 +1,46 @@
+.practice_wrap{
+    background: #f8f4f4;
+    font-family: 'Montserrat';
+    padding-bottom: 100px;
+}
+.practice_wrap h2{
+    color: #2d0000;
+    font-size: 46px;
+    display: block;
+    font-weight: 400;
+    line-height: 1.4;
+    margin-bottom: 30px;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 15px;
+}
+.services{
+    display: flex;
+    text-align: center;
+}
+.familylaw{
+    background: #ffff;
+        margin-left: 30px;
+        margin-right: 15px;
+        box-shadow: inset 0 0em 2em rgb(0 0 0 / 10%), 
+        0 0 0 2px rgb(255 245 249), 
+        0.3em 0.3em 1em rgb(0 0 0 / 7%);
+        border-radius: 5px;
+        padding: 33px;
+}
+.familylaw span{
+    background-color: #b40000;
+    border-radius: 50%;
+    padding: 7px 13px;
+    color: #ffff;
+    font-size: 30px;
+}
+.familylaw span .fa-user{
+    margin-top: 30px;
+}
+.familylaw span .fa-suitcase{
+    margin-top: 30px;
+}
+.familylaw span .fa-car{
+    margin-top: 30px;
+}

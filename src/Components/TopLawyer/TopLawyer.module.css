@@ -1,0 +1,72 @@
+.toplawyer_wrap{
+    background-color: white;
+    display: flex;
+}
+.image_wrap{
+    margin-left: 54px;
+}
+.contents_wrap{
+    margin-right: 36px;
+}
+.contents_wrap{
+    text-align: center;
+}
+.contents_wrap h2{
+    font-size: 46px;
+    font-weight: 400;
+    line-height: 1.4;
+    margin-bottom: 30px;
+    font-family: 'Montserrat';
+    margin-left: 7%;
+    font-family: 'Montserrat';
+}
+.contents_wrap h3{
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 1.4;
+    font-family: 'Montserrat';
+}
+.contents_wrap p{
+    font-size: 18px;
+    color: #6b5a5a;
+    font-weight: 300;
+    line-height: 1.8;
+    margin-bottom: 40px;
+    font-family: 'Montserrat';
+}
+.contents_wrap span{
+    font-family: 'Montserrat';
+    color: gray;
+}
+.sign_image img{
+    height: 200px;
+}
+.experience{
+    position: relative;
+    right: 15%;
+    top: -17%;
+    background-color: #b40000;
+    width: 21%;
+}
+.experience span{
+    color: #fff;
+    font-size: 76px;
+    font-weight: 900;
+    line-height: 1;
+    margin-bottom: 5px;
+    display: block;
+    font-family: 'Montserrat';
+}
+.experience p{
+    color: #fff !important;
+    font-weight: 400 !important;
+    padding: 0 19px !important;
+    line-height: 1.4 !important;  
+    font-family: 'Montserrat';
+}
+span strong{
+    font-size: 23px;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    color: black;
+}

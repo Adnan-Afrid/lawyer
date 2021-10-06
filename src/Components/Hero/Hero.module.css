@@ -1,0 +1,49 @@
+.wrapper{
+    color: white;
+}
+.hero_image_wrap{
+    position: relative;
+}
+.hero_image_wrap img{
+    width: 1349px;
+    position: relative;
+    top: -140px;
+    z-index: -1;
+}
+.hero_contents h1{
+    color: white;
+}
+.contents{
+    position: absolute;
+    left: 55%;
+    top: 30%;
+}
+.contents h1{
+    font-family: 'Montserrat';
+    font-size: 56px;
+    font-weight: 500;
+    color: #fff;
+    width: 91%;
+    margin: 0;
+}
+.contents p{
+    font-family: 'Montserrat';
+    font-weight: 500;
+    color: #e1d3d3;
+    width: 91%;
+    line-height: 1.5;
+}
+.button_wrap button{
+    background-color: #6e1515;
+    color: white;
+    font-weight: 500; 
+    padding: 22px 32px;
+    border-radius: 4px;
+    font-size: 14px;
+    border: none;
+    font-family: 'Montserrat';
+    margin-top: 5%;
+}
+.button_wrap button:hover{
+    background-color: #037ef3;
+}

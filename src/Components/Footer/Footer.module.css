@@ -1,0 +1,76 @@
+.footer_wrap{
+    background-color: #6e1515;
+}
+.footer_logo{
+    text-align: center;
+}
+.footer_logo p{
+    color: #fff;
+    font-size: 21px;
+    margin-bottom: 21px;
+    line-height: 1.8;
+    font-weight: 300;
+}
+.ruler_wrap{
+    margin-left: 4%;
+}
+ .phone_icon{
+    margin-top: 32px;
+    margin-left: 60px;
+    background-color: #060303;
+    border-radius: 50%;
+    color: #c3a8a8;
+    padding: 5px 6px;
+}
+.phone_icon i{
+    margin-left: 3px;
+    margin-top: 7px;
+}
+ .phone_no{
+    margin-top: 39px;
+    margin-left: 9px;
+    color: white;
+    font-weight: 500;
+    font-family: 'Montserrat';
+}
+hr{
+    width: 83%;
+    margin-bottom: 2%;
+    margin-top: 3%;
+
+}
+.email{
+    color: #fff;
+    margin-left: 10%;
+    font-weight: 500;
+    font-size: 17px;
+    font-family: 'Montserrat';
+}
+.icon{
+    border-radius: 50%;
+    color: #fff;
+    font-size: 16px;
+    margin-left: 3%;
+}
+span button{
+    background-color: #40328f;
+    color: white;
+    font-weight: 500;
+    padding: 22px 32px;
+    border-radius: 4px;
+    font-size: 14px;
+    border: none;
+    font-family: 'Montserrat';
+    margin-left: 19%;
+}
+span button:hover{
+    background-color: black;
+    color: white;
+}
+.footer_wrap p{
+    text-align: center;
+    color: white;
+    font-family: 'Montserrat';
+    padding-bottom: 23px !important;
+    margin: 0 !important;
+}

@@ -1,0 +1,47 @@
+.navbar_wrapper{
+    display: flex;
+}
+.logo img{
+    height: 136px;
+}
+ul{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    width: 20%;
+    margin-left: 40%;
+}
+ul li{
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 20px;
+    color: #6e1515;
+}
+ul a{
+    text-decoration: none;
+}
+ul li:hover{
+    color: black;
+
+}
+.navbar_wrapper .phone_icon{
+    margin-top: 33px;
+    margin-left: 60px;
+    background-color: #6e1515;
+    border-radius: 50%;
+    height: 32px;
+    width: 32px;
+    color: #c3a8a8;
+}
+.phone_icon i{
+    margin-left: 7px;
+    margin-top: 7px;
+}
+.navbar_wrapper .phone_no{
+    margin-top: 39px;
+    margin-left: 9px;
+    color: white;
+    font-weight: 500;
+    font-family: 'Montserrat';
+}
